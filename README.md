@@ -9,6 +9,6 @@ douglowder/douglowder is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-Software Architect at @salesforce. Ported the React Native framework to the Apple TV platform.
+Currently at @expo. Formerly at @salesforce. Ported the React Native framework to the Apple TV platform.
 
 React Native for TV wiki: https://github.com/react-native-tvos/react-native-tvos/wiki
